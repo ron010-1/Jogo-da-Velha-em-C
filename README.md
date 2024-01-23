@@ -17,8 +17,6 @@ O Jogo da Velha é um jogo para dois jogadores, X e O, que alternam turnos marca
 
 A grade é numerada da seguinte forma:
 
-markdown
-Copy code
 1 | 2 | 3
 -   -   -
 4 | 5 | 6
